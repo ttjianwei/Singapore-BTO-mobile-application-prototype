@@ -1,2 +1,2 @@
-# Software-Engineering-CZ2006
-Software Engineering on mobile application project
+# Software-Engineering
+Singapore Build-To-Order(BTO) mobile app
